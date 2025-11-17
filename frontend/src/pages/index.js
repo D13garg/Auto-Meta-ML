@@ -76,7 +76,7 @@ export default function Home() {
                 <a href="#how-it-works" className="text-gray-600 hover:text-blue-600 transition">
                   How It Works
                 </a>
-                <a href="https://github.com/yourusername/meta-learning" 
+                <a href="https://github.com/D13garg/Auto-Meta-ML.git" 
                    className="text-gray-600 hover:text-blue-600 transition"
                    target="_blank" rel="noopener noreferrer">
                   GitHub
@@ -101,7 +101,7 @@ export default function Home() {
               {/* Stats */}
               <div className="grid grid-cols-3 gap-6 max-w-2xl mx-auto mb-12">
                 <div className="bg-white rounded-lg shadow p-6">
-                  <div className="text-3xl font-bold text-blue-600">72</div>
+                  <div className="text-3xl font-bold text-blue-600">51</div>
                   <div className="text-sm text-gray-600 mt-1">Datasets Analyzed</div>
                 </div>
                 <div className="bg-white rounded-lg shadow p-6">
@@ -109,7 +109,7 @@ export default function Home() {
                   <div className="text-sm text-gray-600 mt-1">ML Algorithms</div>
                 </div>
                 <div className="bg-white rounded-lg shadow p-6">
-                  <div className="text-3xl font-bold text-purple-600">96.4%</div>
+                  <div className="text-3xl font-bold text-purple-600">98%</div>
                   <div className="text-sm text-gray-600 mt-1">Accuracy</div>
                 </div>
               </div>
